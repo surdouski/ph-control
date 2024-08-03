@@ -1,6 +1,6 @@
 {
   "urls": [
-    ["ph_control/demo.py", "github:surdouski/ph_control/main.py"]
+    ["ph_control_demo.py", "github:surdouski/ph_control/ph_control_demo.py"]
   ],
   "deps": [
     ["github:peterhinch/micropython-mqtt", "master"],
