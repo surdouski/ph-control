@@ -1,0 +1,5 @@
+venv/
+.gitignore
+.idea/
+.git/
+.store.json
